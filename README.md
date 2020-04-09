@@ -17,8 +17,10 @@ For more visit this site [WebStyleGuide](https://webstyleguide.com/wsg2/graphics
 
 ## Screenshots
 
-![](https://github.com/mtali/MiniPaint/blob/master/screenshots/draw_screen.jpeg)
+:blush: I am really bad at drawing . . . . .
+
+<img src="https://github.com/mtali/MiniPaint/blob/master/screenshots/draw_screen.jpeg" width="300">
 
 
-# THANKS
+Thanks :sunglasses:
 
